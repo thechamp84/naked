@@ -1,0 +1,230 @@
+{
+  "common": {
+    "lang": "English",
+    "english": "English",
+    "arabic": "عربي",
+    "next": "Next",
+    "continue": "Continue",
+    "skip": "تخطى",
+    "finish": "انتهى",
+    "error": "خطأ",
+    "noData": "لا توجد بيانات",
+    "save": "Save",
+    "create": "Create",
+    "amount": "Amount",
+    "details": "التفاصيل",
+    "complete": "حفظ",
+    "newRequests": "New Requests",
+    "delete": "Delete",
+    "edit": "Edit",
+    "information": "معلومات",
+    "back": "Back",
+    "dnd": "Drag and drop a file here or click",
+    "chooseFile": "Choose File",
+    "cancel": "Cancel",
+    "update": "Update",
+    "thisRequired": "This is required",
+    "video": "Video",
+    "series": "Series",
+    "magazine": "Magazine",
+    "logout": "Logout",
+    "logoutText": "Are you sure you want to Logout from this device?",
+    "updateDetails": "Update Details",
+    "createNew": "Create New",
+    "submit": "Submit",
+    "actions": "Actions"
+  },
+  "signIn": {
+    "signInToYourAccount": "Sign in to your account",
+    "rememberMe": "Remember me",
+    "forgotYourPassword": "Reset Password",
+    "signIn": "Sign in"
+  },
+  "formLabels": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "password": "Password",
+    "countryCode": "Country Code",
+    "phone": "Phone",
+    "submit": "Submit",
+    "confirmPassword": "Password Confirmation",
+    "title": "Sign up",
+    "subtitle": ""
+  },
+  "account": {
+    "title": "Accounts",
+    "name": "Company Name",
+    "date": "Account Creation Date",
+    "status": "Subscription Status",
+    "no_units": "Total No. of Units",
+    "no_users": "Total No. of Users",
+    "companyId": "Company ID",
+    "creationDate": "Creation Date",
+    "accOwner": "Account Owner",
+    "no_community": "Number of communities",
+    "no_building": "No of Buildings",
+    "no_runit": "No of Residential units",
+    "no_cunit": "No of Commercial units",
+    "no_admin": "No of Admins",
+    "no_manager": "No of Managers",
+    "no_tenant": "No of Tenants",
+    "no_security": "No of Security",
+    "total_money_in": "Total Money In",
+    "total_money_out": "Total Money Out",
+    "total_money_pnl": "Total profit & Loss",
+    "profit": "Profit",
+    "loss": "Loss",
+    "actions": "Actions"
+  },
+  "category": {
+    "title": "Category",
+    "name": "Category Name",
+    "date": "Account Creation Date",
+    "status": "Subscription Status",
+    "no_units": "Total No. of Units",
+    "no_users": "Total No. of Users",
+    "companyId": "Company ID",
+    "creationDate": "Creation Date",
+    "actions": "Actions"
+  },
+  "notification": {
+    "company": "Select a company",
+    "user": "Select a user",
+    "mTitle": "Add a message title",
+    "message": "Message",
+    "attachment": "Attachment",
+    "submit": "Submit",
+    "title": "Push Notification"
+  },
+  "validation": {
+    "required": "This field is required",
+    "passwordRule": "This must contain at least 8 characters, English letters only, at least one small letter, at least one capital letter, and special characters (!@#$%^&*)",
+    "acceptKycTC": "The terms and conditions must be accepted",
+    "mustBeANumber": "This must be a number.",
+    "email": "This field should be email",
+    "nullable": "This field is required",
+    "integer": "This should be an integer",
+    "matches": "This field should matches criteria",
+    "containAtLeast8Characters": "Contain at least 8 characters",
+    "containsAtLeastOneCapital": "Contains at least one capital letter",
+    "containsAtLeastOneSmall": "Contains at least one small letter",
+    "containsSymbols": "Contains special characters !@#$%^&*",
+    "containsNumbers": "Contains at least one number",
+    "min": {
+      "number": "This must be greater than {{min}}",
+      "string": "This must be greater than {{min}} characters",
+      "array": "The number of items must be greater than {{min}}"
+    },
+    "max": {
+      "number": "This field must be less than {{max}}",
+      "string": "This field must be less than {{max}} characters",
+      "array": "The number of items must be less than {{max}}"
+    },
+    "selectOne": "Please select one."
+  },
+  "password": {
+    "oldPassword": "Old password",
+    "confirmationPass": "Password confirmation",
+    "newPassword": "New password",
+    "SomeDataAreNotSaved": "Some data are not saved. Please click on update to save.",
+    "resetPassword": "Reset Your Password",
+    "loginNow": "log in now",
+    "passwordChangedSuccessfully": "The password updated successfully.",
+    "theLinkResetHasBeenSent": "The reset link has been sent.",
+    "enterYourRegisteredEmail": "Please enter your registered email below",
+    "enterYourEmailAddress": "Enter your email address",
+    "emailAddress": "Email address",
+    "sendResetLink": "Send reset link",
+    "followSteps": "Enter the email associated with your account and we’ll send an email with instruction to reset your password."
+  },
+  "toast": {
+    "errors": {
+      "headerImage": "Please Select Header Image.",
+      "fileSelect": "Please Select File."
+    },
+    "success": {
+      "deletedSuccessfully": "Deleted Successfully.",
+      "addedSuccessfully": "Added Successfully.",
+      "updatedSuccessfully": "Updated Successfully."
+    }
+  },
+  "admin": {
+    "video": {
+      "title": "Videos",
+      "name": "Video Name",
+      "date": "Video Creation Date",
+      "status": "Status",
+      "youtubelink": "Youtube Link",
+      "image": "Image",
+      "gender": "Gender",
+      "school": "School",
+      "boy": "Boy",
+      "girl": "Girl",
+      "elementary": "Elementary",
+      "middle": "Middle",
+      "high": "High",
+      "create": {
+        "title": "Video title",
+        "updateDetails": "Update Details",
+        "createNew": "Create New"
+      },
+      "youtubeLinkInvalidMessage": "Invalid Link! Please specify a valid Youtube link.",
+      "invalidLink": "Invalid Link"
+    },
+    "videoDetail": {
+      "title": "Title",
+      "videoDetails": "Video Details"
+    },
+    "series": {
+      "title": "Series",
+      "name": "Series Name",
+      "date": "Series Creation Date",
+      "create": {
+        "title": "Series title"
+      }
+    },
+    "seriesDetail": {
+      "title": "Title",
+      "seriesDetails": "Series Details"
+    },
+    "magazine": {
+      "fileLink": "File Link",
+      "file": "File",
+      "clickToView": "Click to View",
+      "title": "Magazines",
+      "create": {
+        "title": "Magazine title",
+        "fileUrl": "File URL"
+      },
+      "detail": {
+        "magazineDetail": "Magazine Details"
+      }
+    },
+    "shortRead": {
+      "title": "Short Read",
+      "shortReadDetails": "Short Read Details",
+      "viewers": "Viewers",
+      "description": "Description",
+      "create": {
+        "title": "Title",
+        "viewers": "Viewers",
+        "parent": "Parent",
+        "teacher": "Teacher",
+        "student": "Student",
+        "description": "Description"
+      }
+    },
+    "users": {
+      "users": "Users",
+      "create": {
+        "name": "Full Name",
+        "email": "Email",
+        "role": "Role",
+        "mobileNo": "Mobile Number",
+        "role1": "Role 1",
+        "role2": "Role 2"
+      }
+    }
+  }
+}

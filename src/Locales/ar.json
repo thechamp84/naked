@@ -1,0 +1,29 @@
+{
+  "hello": "Hello",
+  "common": {
+    "lang": "عربي",
+    "english": "English",
+    "arabic": "عربي",
+    "next": "التالي",
+    "continue": "الاستمرار",
+    "skip": "تخطى",
+    "finish": "انتهى",
+    "error": "خطأ",
+    "noData": "لا توجد بيانات",
+    "save": "حفظ",
+    "create": "إنشاء",
+    "amount": "القيمة",
+    "details": "التفاصيل",
+    "complete": "حفظ",
+    "newRequests": "New Requests",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "information": "معلومات",
+    "back": "خلف",
+    "dnd": "قم بسحب وإسقاط ملف هنا أو انقر",
+    "chooseFile": "اختر ملف",
+    "cancel": "إلغاء",
+    "update": "تحديث",
+    "thisRequired": "هذا مطلوب"
+  }
+}

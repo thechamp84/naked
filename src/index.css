@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.labelForm {
+
+    font-size: 14px;
+
+    color: #000000;
+
+    line-height: 22px;
+
+}
